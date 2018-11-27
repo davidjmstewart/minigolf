@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Ball_red_01.obj-65d68d5df4809d292f0c7f04f6a11d7b.mesh"
+
+[deps]
+
+files=[ "res://.import/Ball_red_01.obj-65d68d5df4809d292f0c7f04f6a11d7b.mesh" ]
+
+source_file="res://assets/Models/golf_course/Ball_red_01.obj"
+dest_files=[ "res://.import/Ball_red_01.obj-65d68d5df4809d292f0c7f04f6a11d7b.mesh", "res://.import/Ball_red_01.obj-65d68d5df4809d292f0c7f04f6a11d7b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Club_red_01.obj-e67449588c19dae8f35e9f4ac3ddf968.mesh"
+
+[deps]
+
+files=[ "res://.import/Club_red_01.obj-e67449588c19dae8f35e9f4ac3ddf968.mesh" ]
+
+source_file="res://assets/Models/golf_course/Club_red_01.obj"
+dest_files=[ "res://.import/Club_red_01.obj-e67449588c19dae8f35e9f4ac3ddf968.mesh", "res://.import/Club_red_01.obj-e67449588c19dae8f35e9f4ac3ddf968.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Flag_red_01.obj-b503332519a5ec47518009eb9d9501fd.mesh"
+
+[deps]
+
+files=[ "res://.import/Flag_red_01.obj-b503332519a5ec47518009eb9d9501fd.mesh" ]
+
+source_file="res://assets/Models/golf_course/Flag_red_01.obj"
+dest_files=[ "res://.import/Flag_red_01.obj-b503332519a5ec47518009eb9d9501fd.mesh", "res://.import/Flag_red_01.obj-b503332519a5ec47518009eb9d9501fd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Split_walls_to_open_01.obj-e19b4250be01f636c61570ba0717f0f0.mesh"
+
+[deps]
+
+files=[ "res://.import/Split_walls_to_open_01.obj-e19b4250be01f636c61570ba0717f0f0.mesh" ]
+
+source_file="res://assets/Models/golf_course/Split_walls_to_open_01.obj"
+dest_files=[ "res://.import/Split_walls_to_open_01.obj-e19b4250be01f636c61570ba0717f0f0.mesh", "res://.import/Split_walls_to_open_01.obj-e19b4250be01f636c61570ba0717f0f0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

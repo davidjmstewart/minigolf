@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Tunnel_wide_01.obj-8dff7c497dac2dba2a58860217984b3a.mesh"
+
+[deps]
+
+files=[ "res://.import/Tunnel_wide_01.obj-8dff7c497dac2dba2a58860217984b3a.mesh" ]
+
+source_file="res://assets/Models/golf_course/Tunnel_wide_01.obj"
+dest_files=[ "res://.import/Tunnel_wide_01.obj-8dff7c497dac2dba2a58860217984b3a.mesh", "res://.import/Tunnel_wide_01.obj-8dff7c497dac2dba2a58860217984b3a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

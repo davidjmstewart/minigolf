@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Narrow_round_01.obj-dca24644f40d7311308fc24c2ea7bdf1.mesh"
+
+[deps]
+
+files=[ "res://.import/Narrow_round_01.obj-dca24644f40d7311308fc24c2ea7bdf1.mesh" ]
+
+source_file="res://assets/Models/golf_course/Narrow_round_01.obj"
+dest_files=[ "res://.import/Narrow_round_01.obj-dca24644f40d7311308fc24c2ea7bdf1.mesh", "res://.import/Narrow_round_01.obj-dca24644f40d7311308fc24c2ea7bdf1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

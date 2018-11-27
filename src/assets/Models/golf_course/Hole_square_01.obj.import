@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hole_square_01.obj-f8f9c425fd01da095f4e80ffdcca690b.mesh"
+
+[deps]
+
+files=[ "res://.import/Hole_square_01.obj-f8f9c425fd01da095f4e80ffdcca690b.mesh" ]
+
+source_file="res://assets/Models/golf_course/Hole_square_01.obj"
+dest_files=[ "res://.import/Hole_square_01.obj-f8f9c425fd01da095f4e80ffdcca690b.mesh", "res://.import/Hole_square_01.obj-f8f9c425fd01da095f4e80ffdcca690b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
