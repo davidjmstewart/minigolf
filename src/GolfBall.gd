@@ -1,7 +1,7 @@
 extends RigidBody
 
 var pos = Vector3(0, 0, 0)
-var speed = 0.05
+var speed = 0.01
 
 func _ready():
 	# Called when the node is added to the scene for the first time.
@@ -27,9 +27,7 @@ func _process(delta):
 
 func shoot(angle, power):
 	var force = Vector3(0, 0, -1).rotated(Vector3(0, 1, 0), angle)
-	apply_impulse(Vector3(), force * power / 5)
+	apply_impulse(Vector3(), force * power / 75)
 
 func _integrate_forces(state):
-	if state.linear_velocity.length() < 0.2:
-
-		state.linear_velocity = Vector3()
+	pass

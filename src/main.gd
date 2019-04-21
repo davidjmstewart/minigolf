@@ -31,7 +31,12 @@ func _input(event):
 				$CameraSpatial.mouse_rotation(event) # rotate the camera's spatial parent (camera rotates with it)
 			SHOT_SETUP: # if user moved mouse and we are in free look mode, adjust view accordingly
 				$CameraSpatial.mouse_rotation(event) # rotate the camera's spatial parent (camera rotates with it)	
-				$ShotMarker.rotation = $CameraSpatial.rotation
+				#$ShotMarker.rotation = $CameraSpatial.rotation
+				print("z: " + str($ShotMarker.rotation))
+
+				$ShotMarker.rotation.y = $CameraSpatial.rotation.y
+
+				print(str(event.relative.y))
 				$ShotMarker.scale.z -= event.relative.y / 100
 				if $ShotMarker.scale.z > 3:
 					$ShotMarker.scale.z = 3
